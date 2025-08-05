@@ -16,3 +16,6 @@ Currently working on:
 `Python` `HTML/CSS` `C (basic)`  
 Artificial Intelligence and Machine Learning • Startup Prototyping • Self-Learning • Programming Languages 
 
+📘 **Blog**
+I also write tech blogs on [CS with Asad](https://cswithasad.blogspot.com)
+
