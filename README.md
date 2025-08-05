@@ -19,3 +19,5 @@ Artificial Intelligence and Machine Learning • Startup Prototyping • Self-Le
 📘 **Blog**
 I also write tech blogs on [CS with Asad](https://cswithasad.blogspot.com)
 
+📘 Related Blog Post: [What drew me towards Computer Science](https://cswithasad.blogspot.com/2025/08/what-drew-me-towards-computer-science.html)
+
